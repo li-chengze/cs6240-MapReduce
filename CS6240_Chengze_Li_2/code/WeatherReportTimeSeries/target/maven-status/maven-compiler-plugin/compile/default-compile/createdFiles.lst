@@ -1,0 +1,6 @@
+StationYearPair.class
+WeatherReportTimeSeries$TokenizerMapper.class
+WeatherReportTimeSeries$MeanTempReducer.class
+StationYearGroupingComparator.class
+WeatherReportTimeSeries.class
+StationYearPartitioner.class
